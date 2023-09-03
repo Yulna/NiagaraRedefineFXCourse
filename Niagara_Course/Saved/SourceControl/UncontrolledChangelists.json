@@ -6,7 +6,28 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
-				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Levels/Level_01_Particles.umap"
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Levels/Level_01_Particles.umap",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/VFX/NS_Particles.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/VFX/NS_Smoke.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Levels/Level_02_Monster.umap",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Sequences/SQ_monster.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/VFX/NS_Monser_smoke.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/Megascans/Surfaces/Black_Ceramic_Tiles_uiglegfg/MI_Black_Ceramic_Tiles_uiglegfg_2K.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Monster_idle/Mutant_diffuse.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Monster_idle/Mutant_Idle.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Monster_idle/Mutant_Idle_Anim.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Monster_idle/Mutant_Idle_PhysicsAsset.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Monster_idle/Mutant_Idle_Skeleton.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Monster_idle/mutant_M.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Monster_idle/Mutant_normal.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Paladin_diffuse.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Paladin_MAT.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Paladin_normal.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Paladin_specular.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Standing_Idle.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Standing_Idle_Anim.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Standing_Idle_PhysicsAsset.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Standing_Idle_Skeleton.uasset"
 			]
 		}
 	]
