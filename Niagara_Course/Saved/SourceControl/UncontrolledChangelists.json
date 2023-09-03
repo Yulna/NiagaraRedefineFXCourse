@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Levels/Level_01_Particles.umap"
+			]
+		}
+	]
+}
