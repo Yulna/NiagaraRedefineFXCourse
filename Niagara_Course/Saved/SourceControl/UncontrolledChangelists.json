@@ -27,7 +27,24 @@
 				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Standing_Idle.uasset",
 				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Standing_Idle_Anim.uasset",
 				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Standing_Idle_PhysicsAsset.uasset",
-				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Standing_Idle_Skeleton.uasset"
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/Knight_idle/Standing_Idle_Skeleton.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Levels/Level_03_Blast.umap",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/VFX/NS_Blast.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/VFX/NS_Flamethrower.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Levels/Level_04_ChargeUp.umap",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/VFX/NS_ChargeUp.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Materials/M_SpriteEmissive.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/VFX/NS_Release.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/VFX/NS_Embers.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/ChargeUp/Standing_2H_Magic_Area_Attack_02_Anim.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Sequences/SQ_ChargeUp.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/ChargeUp/Arissa_DIFF_diffuse.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/ChargeUp/Arissa_MAT.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/ChargeUp/Arissa_NM_normal.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/ChargeUp/Arissa_SPEC_specular.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/ChargeUp/Standing_2H_Magic_Area_Attack_02.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/ChargeUp/Standing_2H_Magic_Area_Attack_02_PhysicsAsset.uasset",
+				"D:/Code Projects/UnrealTraining/NiagaraRedefineFXCourse/Niagara_Course/Content/RedefineFX/Fluids_Course/Meshes/ChargeUp/Standing_2H_Magic_Area_Attack_02_Skeleton.uasset"
 			]
 		}
 	]
